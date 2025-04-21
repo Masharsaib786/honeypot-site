@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Watch Movie Online - HD Stream</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #000; color: #fff; text-align: center; padding: 20px; }
+    .container { max-width: 700px; margin: auto; }
+    .fake-player { width: 100%; height: 400px; background: #222; position: relative; }
+    .fake-player::after {
+      content: '▶️';
+      font-size: 100px;
+      color: #fff;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    .info { margin-top: 20px; font-size: 18px; }
+  </style>
+</head>
+<body>
+  <!-- Adsterra/Propeller JS Code Goes Below -->
+  <!-- Paste Ad Codes Here -->
+  
+  <div class="container">
+    <h1>Watch "Super HD Movie 2025"</h1>
+    <div class="fake-player"></div>
+    <p class="info">Click play to start streaming instantly in HD!</p>
+  </div>
+</body>
+</html>
